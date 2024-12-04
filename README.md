@@ -6,7 +6,13 @@ This is a ResNet50-based model for plant disease detection. It employs transfer 
    ```
    pip install tensorflow numpy matplotlib scikit-learn
    ```
+2. Download the dataset and copy paste the path in the code
 
+3. After running all the cells, in the last cell enter the path of the plant image you want to run the model on
+
+4. The following is how the output will look like:
+
+   
 
 ## Overview:
 This project focuses on detecting plant diseases using a convolutional neural network (CNN) based on the **ResNet50 architecture**. The model is designed to identify whether a plant is healthy or diseased from input images.  
