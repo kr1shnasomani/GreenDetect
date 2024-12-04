@@ -12,7 +12,9 @@ This is a ResNet50-based model for plant disease detection. It employs transfer 
 
 4. The following is how the output will look like:
 
-   
+   ![image](https://github.com/user-attachments/assets/19dbb952-82fc-4adb-89a2-8bb8f847842f)
+
+   ![image](https://github.com/user-attachments/assets/dc156ce4-8537-40f3-b509-eada91fb8141)
 
 ## Overview:
 This project focuses on detecting plant diseases using a convolutional neural network (CNN) based on the **ResNet50 architecture**. The model is designed to identify whether a plant is healthy or diseased from input images.  
