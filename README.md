@@ -4,7 +4,7 @@ This is a ResNet50-based model for plant disease detection. It employs transfer 
 ## Execution Guide:
 1. Run the following command line in the terminal:
    ```
-   pip install numpy pandas opencv-python matplotlib seaborn tqdm tensorflow scikit-learn
+   pip install tensorflow numpy matplotlib scikit-learn
    ```
 
 
