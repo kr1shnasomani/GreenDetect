@@ -2,6 +2,10 @@
 This is a ResNet50-based model for plant disease detection. It employs transfer learning, data augmentation and class balancing to handle imbalanced datasets. The model processes images efficiently, achieving accurate classification of healthy and diseased plants.
 
 ## Execution Guide:
+1. Run the following command line in the terminal:
+   ```
+   pip install tensorflow numpy matplotlib scikit-learn
+   ```
 
 
 ## Overview:
