@@ -6,11 +6,14 @@ This is a ResNet50-based model for plant disease detection. It employs transfer 
    ```
    pip install tensorflow numpy matplotlib scikit-learn
    ```
-2. Download the dataset and copy paste the path in the code
+   
+2. Download the dataset (link to the dataset: **https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata**)
 
-3. After running all the cells, in the last cell enter the path of the plant image you want to run the model on
+3. Copy and paste the path in the code
 
-4. The following is how the output will look like:
+4. After running all the cells, in the last cell enter the path of the plant image you want to run the model on
+
+5. The following is how the output will look like:
 
    ![image](https://github.com/user-attachments/assets/19dbb952-82fc-4adb-89a2-8bb8f847842f)
 
