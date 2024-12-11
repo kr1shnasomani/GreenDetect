@@ -7,7 +7,7 @@ This is a ResNet50-based model for plant disease detection. It employs transfer 
    pip install tensorflow numpy matplotlib scikit-learn
    ```
    
-2. Download the dataset (link to the dataset: **https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata**)
+2. Download the dataset (link to the dataset: **https://drive.google.com/file/d/1kA_JWhHQhyzzuzlpzppK2nNTtbiR2N77/view**)
 
 3. Copy and paste the path in the code
 
