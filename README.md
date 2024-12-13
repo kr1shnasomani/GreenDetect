@@ -13,7 +13,13 @@ This is a ResNet50-based model for plant disease detection. It employs transfer 
 
 4. After running all the cells, in the last cell enter the path of the plant image you want to run the model on
 
-5. The following is how the output will look like:
+## Accuracy & Loss Over Epochs
+
+![image](https://github.com/user-attachments/assets/57b7c79b-cf37-4669-bf05-7bc9b518712d)
+
+![image](https://github.com/user-attachments/assets/23e5416c-90d1-4dcd-8dc8-02a9c4b0aed1)
+
+## Model Prediction:
 
    ![image](https://github.com/user-attachments/assets/19dbb952-82fc-4adb-89a2-8bb8f847842f)
 
